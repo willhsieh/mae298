@@ -14,4 +14,5 @@
 /ST_LotkaVolterra_Bayes.jl
 /ST_MCMC.jl
 /ST_Multilevel_ReedFrogs.jl
-
+/battleship-test/.env-codex/
+/battleship-test/.mplcache/
